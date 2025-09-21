@@ -157,7 +157,7 @@ yarn test security-tests.ts
 
 **Auditor:** [Elochukwu Orji (Token Harvester)]  
 **Email:** [tokenharvester@gmail.com]  
-**GitHub:** [@TokenHarvester]  
+**GitHub:** [https://github.com/TokenHarvester]  
 **X(formally Twitter):** [https://x.com/Token_Harvester]  
 **Discord:** [@Token_Harvester]
 
